@@ -1,5 +1,5 @@
-mysql-console
-=============
+mysql-console-failsafe
+======================
 
 ## $(whatisit) ##
 A simple MySQL Console using old MySQL functions
